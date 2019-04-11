@@ -1,3 +1,3 @@
 # DevoTest
 
-A project used in devoteam
+A Java example project used in devoteam
