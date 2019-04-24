@@ -13,7 +13,7 @@ public class HomeController {
 
    @GetMapping({"","/"})
     public String index (){
-    return "Welcome to the application of basil and younes.";
+    return "Welcome to the application of and younes.";
     }
 
     @GetMapping("/{id}")
